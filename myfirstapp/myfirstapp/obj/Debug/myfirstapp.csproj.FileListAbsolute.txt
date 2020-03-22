@@ -1,0 +1,7 @@
+C:\Projects\csharps\csharp_projects\myfirstapp\myfirstapp\bin\Debug\myfirstapp.exe.config
+C:\Projects\csharps\csharp_projects\myfirstapp\myfirstapp\bin\Debug\myfirstapp.exe
+C:\Projects\csharps\csharp_projects\myfirstapp\myfirstapp\bin\Debug\myfirstapp.pdb
+C:\Projects\csharps\csharp_projects\myfirstapp\myfirstapp\obj\Debug\myfirstapp.csprojAssemblyReference.cache
+C:\Projects\csharps\csharp_projects\myfirstapp\myfirstapp\obj\Debug\myfirstapp.exe
+C:\Projects\csharps\csharp_projects\myfirstapp\myfirstapp\obj\Debug\myfirstapp.pdb
+C:\Projects\csharps\csharp_projects\myfirstapp\myfirstapp\bin\Debug\testFile.txt
